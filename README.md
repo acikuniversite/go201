@@ -1,3 +1,4 @@
+## [Açık Üniversite](https://www.acikuniversite.org)
 # Golang 201 Eğitimi
 
 Bu eğitimde Go programlama dilinin daha ileri konuları işlenecektir. Eğitim boyunca Go dilindeki temel konuların ötesine geçilerek, daha karmaşık konulara değinilecektir. Eğitim boyunca öğrenilen konular, örneklerle desteklenecektir.
